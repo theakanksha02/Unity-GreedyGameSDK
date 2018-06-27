@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Plugins/GreedyGame/GreedyLoaderScene.unity
+    guid: c5a696df5d218a2418b320ed01ea8ec9
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: Assets/Plugins/Scene/MainScene.unity
+    guid: 4406fce0aa057114bb82069e71cbff16
+  - enabled: 0
+    path: Assets/Plugins/Scene/2DRendererScene.unity
+    guid: c64da9f9f32a0ce46ad4c43e5d361d09
+  - enabled: 0
+    path: Assets/RendererTestScene.unity
+    guid: b98f5314db2ef524daff2cdbb7c78602
+  - enabled: 0
+    path: Assets/ownscene.unity
+    guid: 9a3046cda98475e4b90b64a31ab64598
+  - enabled: 1
+    path: Assets/bouncyscene.unity
+    guid: 9517308ba8c4c7844bd4f32eadc890dd
